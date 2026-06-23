@@ -1,0 +1,94 @@
+═══════════════════════════════════════════════════════════════════
+  INSTRUÇÕES PARA SALVAR SCREENSHOTS DOS ANÚNCIOS
+═══════════════════════════════════════════════════════════════════
+
+📁 ESTRUTURA DE PASTAS CRIADAS:
+
+Cada pasta representa 1 CONJUNTO DE ANÚNCIOS (cidade).
+Salve os screenshots dos anúncios dentro da pasta correspondente.
+
+NOMEAÇÃO DOS ARQUIVOS:
+- Dentro de cada pasta, nomeie os arquivos como: 01.jpg, 02.jpg, 03.jpg, etc.
+- Use sempre 2 dígitos (01, 02, 03... não use 1, 2, 3)
+- Formato: JPG ou PNG
+
+═══════════════════════════════════════════════════════════════════
+  QUANTIDADE DE ANÚNCIOS POR PASTA
+═══════════════════════════════════════════════════════════════════
+
+01 - Alvorada do Oeste
+   └─ Salvar: 01.jpg, 02.jpg (2 anúncios)
+
+02 - Costa Marques
+   └─ Salvar: 01.jpg, 02.jpg (2 anúncios)
+
+03 - Corumbiara
+   └─ Salvar: 01.jpg (1 anúncio)
+
+04 - Seringueiras
+   └─ Salvar: 01.jpg, 02.jpg, 03.jpg, 04.jpg (4 anúncios)
+
+05 - São Miguel do Guaporé
+   └─ Salvar: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg (7 anúncios)
+
+06 - Ouro Preto do Oeste
+   └─ Salvar: 01.jpg (1 anúncio)
+
+07 - Vale do Paraíso
+   └─ Salvar: 01.jpg (1 anúncio)
+
+08 - Primavera de Rondônia
+   └─ Salvar: 01.jpg (1 anúncio)
+
+09 - Vale do Anari
+   └─ Salvar: 01.jpg, 02.jpg (2 anúncios)
+
+10 - Campo Novo de Rondônia
+   └─ Salvar: 01.jpg, 02.jpg, 03.jpg (3 anúncios)
+
+11 - Pimenteiras do Oeste
+   └─ Salvar: 01.jpg, 02.jpg (2 anúncios)
+
+12 - Rolim de Moura
+   └─ Salvar: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg (5 anúncios)
+
+13 - Colorado do Oeste
+   └─ Salvar: 01.jpg (1 anúncio)
+
+14 - São Francisco do Guaporé
+   └─ Salvar: 01.jpg, 02.jpg, 03.jpg (3 anúncios)
+
+15 - Nova Brasilândia do Oeste
+   └─ Salvar: 01.jpg, 02.jpg, 03.jpg, 04.jpg (4 anúncios)
+
+16 - Mirante da Serra
+   └─ Salvar: 01.jpg (1 anúncio)
+
+17 - Buritis
+   └─ Salvar: 01.jpg (1 anúncio)
+
+18 - Alta Floresta
+   └─ Salvar: 01.jpg (1 anúncio)
+
+═══════════════════════════════════════════════════════════════════
+  TOTAL: 42 ANÚNCIOS
+═══════════════════════════════════════════════════════════════════
+
+COMO FAZER O SCREENSHOT:
+
+1. Abra o Gerenciador de Anúncios do Facebook
+2. Vá em Campanha > [ENTREGA NAS CIDADES]
+3. Filtre por CONJUNTO DE ANÚNCIOS
+4. Para cada conjunto (cidade):
+   - Tire screenshot de cada anúncio
+   - Salve na pasta correspondente
+   - Nomeie como 01.jpg, 02.jpg, etc.
+
+DICA: Capture apenas a imagem/vídeo do anúncio (não precisa do texto todo)
+
+═══════════════════════════════════════════════════════════════════
+
+Após salvar todas as imagens, avise e eu gero o relatório com as
+imagens REAIS dos anúncios!
+
+═══════════════════════════════════════════════════════════════════
